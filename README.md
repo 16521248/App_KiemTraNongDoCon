@@ -29,7 +29,7 @@ App cần những thông tin để tính được nồng độ:
 
 -------------------------------------------
 Database: https://docs.google.com/spreadsheets/d/1OWTXYl2TF0-EiuHTvBQ2FJG1cG9uC-1fvXYwmHlsGdQ/edit?usp=sharing
-Em đã thống kê được hơn 45 loại Bia và 10 loại Rượu (bao gồm tên loại bia, độ cồn, thể tích).
+Đã thống kê được hơn 45 loại Bia và 10 loại Rượu (bao gồm tên loại bia, độ cồn, thể tích).
 
 ------------
 Quy trình sử dụng app:
